@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pipeline-onTeste/static/css/main.4b738920.chunk.css",
+    "main.js": "/pipeline-onTeste/static/js/main.6f470094.chunk.js",
+    "main.js.map": "/pipeline-onTeste/static/js/main.6f470094.chunk.js.map",
+    "runtime-main.js": "/pipeline-onTeste/static/js/runtime-main.47ba7d5e.js",
+    "runtime-main.js.map": "/pipeline-onTeste/static/js/runtime-main.47ba7d5e.js.map",
+    "static/js/2.3f04e31a.chunk.js": "/pipeline-onTeste/static/js/2.3f04e31a.chunk.js",
+    "static/js/2.3f04e31a.chunk.js.map": "/pipeline-onTeste/static/js/2.3f04e31a.chunk.js.map",
+    "index.html": "/pipeline-onTeste/index.html",
+    "precache-manifest.e5cbfddc505a4be60eeb1db2aaa750bf.js": "/pipeline-onTeste/precache-manifest.e5cbfddc505a4be60eeb1db2aaa750bf.js",
+    "service-worker.js": "/pipeline-onTeste/service-worker.js",
+    "static/css/main.4b738920.chunk.css.map": "/pipeline-onTeste/static/css/main.4b738920.chunk.css.map",
+    "static/js/2.3f04e31a.chunk.js.LICENSE.txt": "/pipeline-onTeste/static/js/2.3f04e31a.chunk.js.LICENSE.txt",
+    "static/media/OctoCat.jpg": "/pipeline-onTeste/static/media/OctoCat.c4d9ebc1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47ba7d5e.js",
+    "static/js/2.3f04e31a.chunk.js",
+    "static/css/main.4b738920.chunk.css",
+    "static/js/main.6f470094.chunk.js"
+  ]
+}
