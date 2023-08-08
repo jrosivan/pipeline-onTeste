@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.2",
   "private": true,
-  "homepage": "https://fabianocarneiro.github.io/pipeline-on/",
+  "homepage": "https://fabianocarneiro.github.io/pipeline-onTeste/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",  
   "dependencies": {
